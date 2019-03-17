@@ -21,8 +21,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Mirada geoespacial'
-description:	       'Divulgación de temas sobre análisis espacial y Sistemas de Información Geográfica.'
-author:              'Irving'
+description:	       'Temas de análisis espacial y Sistemas de Información Geográfica.'
+author:              'Irving Manrique'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
