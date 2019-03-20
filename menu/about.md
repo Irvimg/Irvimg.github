@@ -7,11 +7,17 @@ Blog dedicado a compartir informacion, tips , tutoriales, ebooks entre otros tem
 
 ### Sobre el autor
 
-   ![Jekyll](/assets/img/yo.jpeg)
 
 
+<p align="center">
+  <img width="300" height="300" src= "https://raw.githubusercontent.com/Irvimg/irvimg2/gh-pages/assets/img/yo.jpeg" >
+</p>
+
+
+<p align="center">
 Irving Manrique Gonzalez
 Analista de información geográfica
+</p>
 
 Especialista en Cartografia automatizada Teledeteccion y sistemas de informacion geografica
 Maestro en analisis espacial y geoinformatica
