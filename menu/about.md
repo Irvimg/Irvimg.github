@@ -7,8 +7,9 @@ Blog dedicado a compartir informacion, tips , tutoriales, ebooks entre otros tem
 
 ### Sobre el autor
 
-image: yo.jpeg
+![Jekyll](/assets/img/yo.jpeg)
 
+image: 
 Irving Manrique Gonzalez
 Analista de información geográfica
 
