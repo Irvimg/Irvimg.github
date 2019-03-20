@@ -7,11 +7,11 @@ Blog dedicado a compartir informacion, tips , tutoriales, ebooks entre otros tem
 
 ### Sobre el autor
 
-![Jekyll](/assets/img/yo.jpeg)
+   ![Jekyll](/assets/img/yo.jpeg)
 
-image: 
+
 Irving Manrique Gonzalez
 Analista de información geográfica
 
-Especialista en Ccartografia automatizada Teledeteccion y sistemas de informacion geografica
+Especialista en Cartografia automatizada Teledeteccion y sistemas de informacion geografica
 Maestro en analisis espacial y geoinformatica
