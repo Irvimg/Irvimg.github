@@ -19,5 +19,10 @@ Irving Manrique Gonzalez
 Analista de información geográfica
 </p>
 
-Especialista en Cartografia automatizada Teledeteccion y sistemas de informacion geografica
-Maestro en analisis espacial y geoinformatica
+<p align="center">
+Especialista en Cartografia automatizada Teledeteccion y sistemas de informacion geografica.
+</p>
+
+<p align="center">
+Maestro en analisis espacial y geoinformatica.
+</p>
