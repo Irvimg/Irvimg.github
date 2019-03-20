@@ -6,6 +6,8 @@ title: Bienvenido
 Blog dedicado a compartir informacion, tips , tutoriales, ebooks entre otros temas relacionados con los Sistemas de Información Geográfica.
 
 ### Sobre el autor
+
+image: yo.jpeg
 Irving Manrique Gonzalez
 Analista de información geográfica
 
