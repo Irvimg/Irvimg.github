@@ -3,4 +3,4 @@ layout: page
 title: Contacto
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/91_irving), or [file a GitHub issue](https://github.com/Irvimg)
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme en [Facebook](https://www.facebook.com/profile.php?id=100009679980482) o en mi correo irving.9mg@gmail.com
