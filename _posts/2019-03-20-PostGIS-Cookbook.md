@@ -5,6 +5,7 @@ author: "Irving"
 categories: Ebook
 tags: [Ebook,Base de datos,Postgis]
 image: PostGisC.jpg
+published:true
 ---
 
 En esta primera entrada, compartiré un libro que me ha sido difícil encontrar, y personalmente me parece ha ayudado a reforzar mis conocimientos en dentro en el manejo de base de datos espaciales, el e-book se encuentra en formato epub y puede ser abierto desde cualquier navegador.
