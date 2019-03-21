@@ -4,7 +4,7 @@ title: "PostGIS-Cookbook"
 author: "Irving"
 categories: Ebook
 tags: [Ebook,Base de datos,Postgis]
-image: postgisc.jpg
+image: /assets/img/postgisc.jpg
 published:true
 ---
 
