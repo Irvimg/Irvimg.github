@@ -4,7 +4,7 @@ title: "Primera entrada"
 author: "Irving"
 categories: Ebook
 tags: [Ebook,Base de datos,Postgis]
-image: PostGisC.jpg
+image: postgisc.jpg
 published:true
 ---
 
