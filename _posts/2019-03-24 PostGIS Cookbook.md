@@ -3,7 +3,7 @@ layout: post
 title: "Libro de cocina de PostGis"
 author: "Paul Le"
 categories: journal
-tags: [documentation,sample]
+tags: [Bases de datos,Postgis,Ebook,Descarga]
 image: mountains.jpg
 published: true
 ---
