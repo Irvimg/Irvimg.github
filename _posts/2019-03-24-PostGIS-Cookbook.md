@@ -2,7 +2,7 @@
 layout: post
 title: "Libro de cocina de PostGis"
 author: "Irving"
-categories: journal
+categories: Ebook
 tags: [Bases de datos,Postgis,Ebook,Descarga]
 image: postgisc.jpg
 
