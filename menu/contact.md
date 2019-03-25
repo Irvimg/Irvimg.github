@@ -3,7 +3,7 @@ layout: page
 title: Contacto
 ---
 <p align="center">
-  <img width="300" height="300" src= "https://raw.githubusercontent.com/Irvimg/irvimg2/gh-pages/assets/img/poster.jpeg" >
+  <img width="600" height="350" src= "https://raw.githubusercontent.com/Irvimg/irvimg2/gh-pages/assets/img/poster.jpeg" >
 </p>
 
 
