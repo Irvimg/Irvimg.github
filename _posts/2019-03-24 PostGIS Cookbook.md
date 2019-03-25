@@ -5,7 +5,7 @@ author: "Paul Le"
 categories: journal
 tags: [Bases de datos,Postgis,Ebook,Descarga]
 image: mountains.jpg
-published: true
+
 ---
 
 Libro de cocina de PostGis
