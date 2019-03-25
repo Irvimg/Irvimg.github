@@ -6,7 +6,6 @@ categories: Ebook
 tags: [Bases de datos,Postgis,Ebook,Descarga]
 image: postgisc.jpg
 published: true
-
 ---
 
 <p align="center">
