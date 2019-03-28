@@ -8,9 +8,6 @@ image: postgisc.jpg
 
 ---
 
-<p align="center">
-  <img width="300" height="350" src= "https://github.com/Irvimg/irvimg2/blob/gh-pages/assets/img/postgisc.jpg" >
-</p>
 
 
 
