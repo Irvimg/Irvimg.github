@@ -4,9 +4,6 @@ title: Contacto
 image: poster.jpg
 
 ---
-<p align="center">
-  <img width="600" height="350" src= "https://github.com/Irvimg/irvimg2/blob/gh-pages/assets/img/poster.jpg" >
-</p>
 
 
 
