@@ -17,4 +17,6 @@ El libro está en inglés, pero si tienen algún leve conocimiento de este idiom
 
 Si el libro es de su agrado, recomiendo que lo adquieran.
 
+https://www.packtpub.com/application-development/postgis-cookbook-second-edition
+
 https://bit.ly/2Xqpycq
